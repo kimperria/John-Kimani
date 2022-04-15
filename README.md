@@ -7,7 +7,8 @@ My name is Kimani John and I am a fullstack software developer.
 ```bash
   Kimani-John@github:~ about me
   - 🌱 I’m currently learning web development using python and javascript languages, angular, flask and django frameworks.
-  - ⚡ Kimperria is my personal brand. Apples and more apples is my brand slogan. Well, here is an invite and cheers to connect.
+  - ⚡ Kimperria is my personal brand. Apples and more apples is my brand slogan. 
+  - 🥂 Toast, here is an invite and cheers to connect with you.
 ```
 ---
 [![Kimani's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kimani)](https://github.com/John-Kimani/github-readme-stats)
