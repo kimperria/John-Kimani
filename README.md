@@ -41,7 +41,14 @@
 ### Socials
 ---
 - 📫 Connect with me on:
-<a href="https://www.linkedin.com/in/kimani-john/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/kimperria"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<br>
+<a href="https://www.linkedin.com/in/kimani-john/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<br>
+</a> <a href="https://twitter.com/kimperria"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<br>
+<a href="mailto: kimwaweru100@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-f2a60c?style=for-the-badge&logo=gmail&logoColor=c71610" />
+</a>
 
 
 
@@ -50,16 +57,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
 -->
-
-<!-- [![Kimani's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kimani)](https://github.com/John-Kimani/github-readme-stats) -->
-
-<!-- > *In the beginning there was terminal* ~  <cite>[GitauHarrison](https://www.gitauharrison.com/)</cite> -->
