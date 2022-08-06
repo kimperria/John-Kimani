@@ -42,13 +42,10 @@
 ---
 - 📫 Connect with me on:
 <br>
-<a href="https://www.linkedin.com/in/kimani-john/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<br>
-</a> <a href="https://twitter.com/kimperria"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<br>
-<a href="mailto: kimwaweru100@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-f2a60c?style=for-the-badge&logo=gmail&logoColor=c71610" />
-</a>
+<a align=right href="https://www.linkedin.com/in/kimani-john/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a align=center href="https://twitter.com/kimperria"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+<a align=left href="mailto: kimwaweru100@gmail.com"><img src="https://img.shields.io/badge/GMAIL-f2a60c?style=for-the-badge&logo=gmail&logoColor=c71610" /></a>
 
 
 
