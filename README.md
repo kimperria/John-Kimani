@@ -29,6 +29,10 @@
 
   - 🔭 I’m currently learning ...
 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+
   <img src="https://img.shields.io/badge/RUBY-a81315?style=for-the-badge&logo=ruby&logoColor=white" />
 
   
