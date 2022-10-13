@@ -2,22 +2,8 @@
 
 
 > John-Kimani@github:~ sudo about me
->  - 🌱 I’m a Fullstack developer with experience in design, database and web development.
+>  - 🌱 I’m a Fullstack web developer.
 > - ⚡ I spend countless screen hours honing my skills, building scalable products that inform and delight.
-
-### &#x1f4c8; GitHub Stats
-
----
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani"> -->
-
-<a href="https://github.com/John-Kimani/John-Kimani">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kimani&show_icons=true&theme=radical" alt="John-Kimani"/>
-</a>
-<a href="https://github.com/John-Kimani/John-Kimani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=John-Kimani&count_private=true&show_icons=true&theme=radical" alt="John-Kimani"/>
-</a>
-
-
 
 ### Languages and Tools:
 ---
@@ -29,28 +15,18 @@
 
   - 🔭 I’m currently learning ...
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
-
   <img src="https://img.shields.io/badge/RUBY-a81315?style=for-the-badge&logo=ruby&logoColor=white" />
 
-  
+#### &#x1f4c8; Stats of what I have been doing
+<hr/>
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani"> -->
 
-
-### Interests
----
-  - 👯 I am a people person, absolutely thrilled to meet new people, collaborate in teams and gain new experiences.
-
-### Socials
----
-- 📫 Connect with me on:
-<br>
-<a align=right href="https://www.linkedin.com/in/kimani-john/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a align=center href="https://twitter.com/kimperria"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-<a align=left href="mailto: kimwaweru100@gmail.com"><img src="https://img.shields.io/badge/GMAIL-f2a60c?style=for-the-badge&logo=gmail&logoColor=c71610" /></a>
-
+<a href="https://github.com/John-Kimani/John-Kimani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=John-Kimani&count_private=true&show_icons=true&theme=algolia" alt="John-Kimani"/>
+</a>
+<a href="https://github.com/John-Kimani/John-Kimani">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kimani&show_icons=true&theme=algolia&layout=compact" alt="John-Kimani"/>
+</a>
 
 
 <!--
@@ -62,5 +38,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
+- 📫 Connect with me on:
 
 -->
