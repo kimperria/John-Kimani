@@ -22,7 +22,7 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani"> -->
 
 <a href="https://github.com/John-Kimani/John-Kimani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=John-Kimani&count_private=true&show_icons=true&theme=algolia" alt="John-Kimani"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=John-Kimani&count_private=true&show_icons=true&theme=algolia&layout=compact&card_width=190" alt="John-Kimani"/>
 </a>
 <a href="https://github.com/John-Kimani/John-Kimani">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kimani&show_icons=true&theme=algolia&layout=compact" alt="John-Kimani"/>
