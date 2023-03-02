@@ -5,6 +5,15 @@
 >  - 🌱 I’m a Fullstack web developer.
 > - ⚡ I spend countless screen hours honing my skills, building scalable products that inform and delight.
 
+#### &#x1f4c8; What I have been doing
+<hr/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani">
+- ⚡ Since console.log("Hello Word") I have spent:
+
+<span>[![wakatime](https://wakatime.com/badge/user/3cec1c8c-d08e-478f-a85d-1b454d2d5e93.svg)](https://wakatime.com/@3cec1c8c-d08e-478f-a85d-1b454d2d5e93)</span>
+
+**HMU Stalker:** ![visitors](https://visitor-badge.glitch.me/badge?page_id=John-Kimani.)
+
 
 ### Languages and Tools:
 ---
@@ -17,15 +26,6 @@
   <!-- - 🔭 I’m currently learning ...
 
   <img src="https://img.shields.io/badge/RUBY-a81315?style=for-the-badge&logo=ruby&logoColor=white" /> -->
-
-#### &#x1f4c8; What I have been doing
-<hr/>
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani"> -->
-- ⚡ Since console.log("Hello Word") I have spent:
-
-<span>[![wakatime](https://wakatime.com/badge/user/3cec1c8c-d08e-478f-a85d-1b454d2d5e93.svg)](https://wakatime.com/@3cec1c8c-d08e-478f-a85d-1b454d2d5e93)</span>
-
-
 
 <table>
   <tr>
