@@ -4,13 +4,15 @@
 > John-Kimani@github:~ sudo about me
 >  - 🌱 I’m a Fullstack web developer.
 > - ⚡ I spend countless screen hours honing my skills, building scalable products that inform and delight.
+>- ⚡  <span>[![wakatime](https://wakatime.com/badge/user/3cec1c8c-d08e-478f-a85d-1b454d2d5e93.svg)](https://wakatime.com/@3cec1c8c-d08e-478f-a85d-1b454d2d5e93)</span> since _**console.log('hello_world')**_
+> - 📫 Hit me up stalker(s) <img src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani">
 
-#### &#x1f4c8; What I have been doing
+<!-- #### &#x1f4c8; What I have been doing
 <hr/>
 
 - ⚡  <span>[![wakatime](https://wakatime.com/badge/user/3cec1c8c-d08e-478f-a85d-1b454d2d5e93.svg)](https://wakatime.com/@3cec1c8c-d08e-478f-a85d-1b454d2d5e93)</span> since _**console.log('hello_world')**_
 
-- 📫 Hit me up stalker(s) <img src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani">
+- 📫 Hit me up stalker(s) <img src="https://visitor-badge.laobi.icu/badge?page_id=John-Kimani"> -->
 
 
 
